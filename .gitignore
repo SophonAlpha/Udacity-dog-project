@@ -7,4 +7,4 @@ saved_models/weights.best.vgg16.hdf5
 .ipynb_checkpoints/
 bottleneck_features/DogVGG16Data.npz
 project notes.txt
-*.hdf5
+CNN.weights.best.hdf5
