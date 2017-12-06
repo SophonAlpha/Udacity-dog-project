@@ -5,8 +5,6 @@ __MACOSX/
 saved_models/weights.best.from_scratch.hdf5
 saved_models/weights.best.vgg16.hdf5
 .ipynb_checkpoints/
-bottleneck_features/DogVGG16Data.npz
+*.npz
 project notes.txt
-CNN.weights.best.hdf5
-humandog_model_weights.hdf5
-
+*.hdf5
