@@ -8,3 +8,5 @@ saved_models/weights.best.vgg16.hdf5
 bottleneck_features/DogVGG16Data.npz
 project notes.txt
 CNN.weights.best.hdf5
+humandog_model_weights.hdf5
+
