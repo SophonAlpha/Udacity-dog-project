@@ -2,13 +2,8 @@
 dogImages/
 lfw/
 __MACOSX/
-saved_models/weights.best.from_scratch.hdf5
-saved_models/weights.best.vgg16.hdf5
+saved_models/*.hdf5
 .ipynb_checkpoints/
 *.npz
-project notes.txt
-<<<<<<< HEAD
-CNN.weights.best.hdf5
-=======
 *.hdf5
->>>>>>> 958d1ee288b6db7aa43c19cfc48f40a450617930
+project notes.txt
