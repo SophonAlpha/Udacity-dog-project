@@ -5,7 +5,6 @@ __MACOSX/
 saved_models/weights.best.from_scratch.hdf5
 saved_models/weights.best.vgg16.hdf5
 .ipynb_checkpoints/
-saved_models/
 *.npz
 project notes.txt
 *.hdf5
